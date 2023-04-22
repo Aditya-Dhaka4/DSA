@@ -1,6 +1,6 @@
 #include "LinkedList.h"
-#include "Stack.h"
-//#include "ArrayStack.h"
+
+
 #include <iostream>
 using namespace std;
 
@@ -22,11 +22,5 @@ l.remove(2);
 l.addToHead(14);
 cout<<"ELEMENTS: "<<endl;
 l.traverse();
-// ArrayStack arr;
-// arr.push(14);
-// arr.push(15);
-// arr.push(16);
-// cout<<arr.pop()<<endl;
-// arr.display();
 
 }
