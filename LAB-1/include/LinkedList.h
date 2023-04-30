@@ -27,5 +27,5 @@ class LinkedList{
 		void traverse();	
 
 };
-
+//ll
 #endif
