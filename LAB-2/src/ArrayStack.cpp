@@ -57,7 +57,7 @@ else{
  }
 
  void ArrayStack::display(){
-    cout<<"\nELEMENTS: ";
+    cout<<"Displaying elements: ";
     if (!isEmpty())
     {
     for (int i = 0; i <= topIndex; i++)
