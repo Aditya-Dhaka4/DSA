@@ -5,10 +5,14 @@
             "includePath": [
                 "${workspaceFolder}/**",
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "${workspaceFolder}/include"
 =======
                 "${workspaceFolder}/LAB-1/include"
 >>>>>>> 21735bf (Stack implementation)
+=======
+                "${workspaceFolder}/include"
+>>>>>>> 70f137f856a11ba880aa9a1a94673b5eae87a5b0
             ],
             "defines": [
                 "_DEBUG",
